@@ -10,4 +10,4 @@ function bearAndBigBrother(a, b) {
   return index;
 }
 
-bearAndBigBrother(4, 7);
+module.exports = bearAndBigBrother;
